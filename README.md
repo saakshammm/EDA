@@ -1,7 +1,7 @@
 ## 📁 Files Included
 
 - `cleaned_data.csv`: Cleaned Titanic dataset
-- `EDA_Titanic.ipynb`: EDA analysis code
+- `EDA.ipynb`: EDA analysis code
 - `README.md`: This file
 
 ---
