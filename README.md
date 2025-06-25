@@ -1,5 +1,3 @@
----
-
 ## 📁 Files Included
 
 - `cleaned_data.csv`: Cleaned Titanic dataset
@@ -39,5 +37,3 @@
 - Pandas 📊
 - Seaborn 🎨
 - Matplotlib 📈
-
----
